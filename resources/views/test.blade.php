@@ -31,7 +31,7 @@
 	    		<table class="table table-stripped">
 	    			<thead>
 	    				<tr>
-	    					<th>No</th>
+	    					<th>NoNo</th>
 	    					<th>Name</th>
 	    					<th>Price</th>
 	    					<th>Color</th>
