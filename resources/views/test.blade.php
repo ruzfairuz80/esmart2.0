@@ -33,7 +33,7 @@
 	    				<tr>
 	    					<th>No</th>
 	    					<th>Name</th>
-	    					<th>Price</th>
+	    					<th>Pri</th>
 	    					<th>Color</th>
 	    				</tr>
 	    			</thead>
