@@ -42,7 +42,7 @@
 	    				<tr>
 	    					<td>{{ $loop->index+1 }}</td>
 	    					<td>{{ $product->name }}</td>
-	    					<td>{{ $product->price->price }}</td>
+	    					<td>{{ $product->pric->price }}</td>
 	    					<td>{{ $product->color->name }}</td>
 	    				</tr>
 	    				@empty
